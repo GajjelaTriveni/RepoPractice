@@ -19,5 +19,6 @@ class Addition
 		res=num1-num2;
 		System.out.println("The Difference result is "+res);
 		System.out.println("Thank you");
+		System.out.println("THis is end of the main method");
 	}
 }
