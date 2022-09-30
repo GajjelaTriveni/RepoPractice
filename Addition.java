@@ -5,6 +5,7 @@ class Addition
 		int num1,num2,res;
 		Scanner s = new Scanner(System.in);
 		System.out.println("Welcome to Devops GCP Course");
+		System.out.println("My first commit");
 		System.out.println("This is Prod branch code");
 		System.out.println("Enter num1 value");
 		num1=s.nextInt();
