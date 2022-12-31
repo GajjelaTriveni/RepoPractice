@@ -20,5 +20,7 @@ class Addition
 		System.out.println("The Difference result is "+res);
 		System.out.println("Thank you");
 		System.out.println("THis is end of the main method");
+		System.out.println("This is the new line added");
+		System.out.println("This is for git testing");
 	}
 }
